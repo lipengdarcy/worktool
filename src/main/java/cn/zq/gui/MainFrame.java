@@ -21,6 +21,7 @@ public class MainFrame extends JFrame {
 	JLabel fileName;
 
 	public MainFrame() {
+		this.setTitle("周颀的工具");
 		this.setSize(500, 300);
 		JPanel panel = new JPanel();
 		this.add(panel);

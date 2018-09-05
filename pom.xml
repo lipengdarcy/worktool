@@ -13,7 +13,7 @@
 		<!-- poi操作excel，word文档 -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
-			<artifactId>poi-excelant</artifactId>
+			<artifactId>poi</artifactId>
 			<version>3.13</version>
 		</dependency>
 
